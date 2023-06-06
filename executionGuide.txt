@@ -1,0 +1,14 @@
+Steps to download automation components
+
+1. Download Eclipse
+2. Download Selenium Jars
+3. Download chrome browser compatible chromewebdriver.exe
+4. Download JDk and set Java_home and path in enviornment variable
+5. Install testNG plugin from eclipse marketplace
+6. Add all selenium dependancy in build config
+
+Steps to execute
+
+1. Clone the project in local repository/open in IDE
+2. Run testNG.xml
+3. Screenshot and notes file will be avaialble under "src/main/resources"
